@@ -1,0 +1,12 @@
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/bin/Debug/net8.0/WorkforceHub.Application.deps.json
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/bin/Debug/net8.0/WorkforceHub.Application.dll
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/bin/Debug/net8.0/WorkforceHub.Application.pdb
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/obj/Debug/net8.0/WorkforceHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/obj/Debug/net8.0/WorkforceHub.Application.AssemblyInfoInputs.cache
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/obj/Debug/net8.0/WorkforceHub.Application.AssemblyInfo.cs
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/obj/Debug/net8.0/WorkforceHub.Application.csproj.CoreCompileInputs.cache
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/obj/Debug/net8.0/WorkforceHub.Application.sourcelink.json
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/obj/Debug/net8.0/WorkforceHub.Application.dll
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/obj/Debug/net8.0/refint/WorkforceHub.Application.dll
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/obj/Debug/net8.0/WorkforceHub.Application.pdb
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Application/obj/Debug/net8.0/ref/WorkforceHub.Application.dll

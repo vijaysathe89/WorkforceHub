@@ -1,0 +1,15 @@
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/bin/Debug/net8.0/WorkforceHub.Infrastructure.deps.json
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/bin/Debug/net8.0/WorkforceHub.Infrastructure.dll
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/bin/Debug/net8.0/WorkforceHub.Infrastructure.pdb
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/WorkforceHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/WorkforceHub.Infrastructure.AssemblyInfoInputs.cache
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/WorkforceHub.Infrastructure.AssemblyInfo.cs
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/WorkforceHub.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/WorkforceHub.Infrastructure.sourcelink.json
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/WorkforceHub.Infrastructure.dll
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/refint/WorkforceHub.Infrastructure.dll
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/WorkforceHub.Infrastructure.pdb
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/ref/WorkforceHub.Infrastructure.dll
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/bin/Debug/net8.0/WorkforceHub.Infrastructure.runtimeconfig.json
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/WorkforceHub.Infrastructure.csproj.AssemblyReference.cache
+/Users/vijay/WORK/WorkforceHub/src/WorkforceHub.Infrastructure/obj/Debug/net8.0/WorkforceHub.Infrastructure.genruntimeconfig.cache
